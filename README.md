@@ -3,6 +3,24 @@
 This is just a very simple example app with react-native-zoomable-view for demonstration purposes.
 It was created using create-react-native-app, so all commands apply.
 
+## Getting started
+
+If you want to try it just follow these steps:
+
+### Install dependencies
+
+```
+   yarn install
+```
+
+
+### Then start it
+
+```
+   yarn start
+```
+
+
 ## Table of Contents
 
 * [Available Scripts](#available-scripts)
