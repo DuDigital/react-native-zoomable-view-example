@@ -1,6 +1,6 @@
 {
   "name": "zoomtest",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "devDependencies": {
     "jest-expo": "~27.0.0",
@@ -19,7 +19,7 @@
     "preset": "jest-expo"
   },
   "dependencies": {
-    "@dudigital/react-native-zoomable-view": "^1.0.7",
+    "@dudigital/react-native-zoomable-view": "^1.0.12",
     "expo": "^27.0.1",
     "react": "16.3.1",
     "react-native": "~0.55.2"
