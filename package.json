@@ -1,0 +1,23 @@
+{
+  "name": "react-native-zoomable-view-example",
+  "version": "1.0.13",
+  "private": false,
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.0.0",
+    "@dudigital/react-native-zoomable-view": "^1.0.13",
+    "react": "16.5.0",
+    "react-native": "0.57.1"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^5.0.0",
+    "jest": "^24.8.0"
+  }
+}

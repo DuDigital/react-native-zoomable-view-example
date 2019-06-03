@@ -1,0 +1,3 @@
+rootProject.name = 'reactnativezoomableviewexample'
+
+include ':app'
