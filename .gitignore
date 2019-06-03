@@ -7,3 +7,6 @@ npm-debug.*
 *.mobileprovision
 yarn.lock
 package-lock.json
+
+.idea
+.vscode
