@@ -7,6 +7,12 @@ It was created using create-react-native-app, so all commands apply.
 
 If you want to try it just follow these steps:
 
+### Clone this repository
+
+```
+   git clone git@github.com:DuDigital/react-native-zoomable-view-example.git
+```
+
 ### Install dependencies
 
 ```
@@ -14,10 +20,16 @@ If you want to try it just follow these steps:
 ```
 
 
-### Then start it
+### Then start the react-native bundler
 
 ```
    yarn start
+```
+
+### Install the application on emulator and start
+
+```
+   react-native run-android
 ```
 
 
