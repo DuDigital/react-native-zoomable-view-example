@@ -1,17 +1,12 @@
 {
-  "name": "ReactNativeZoomableViewExample",
-  "displayName": "React Native Zoomable View",
+  "name": "react-native-zoomable-view-example",
+  "displayName": "react-native-zoomable-view-example",
   "expo": {
-    "name": "ReactNativeZoomableViewExample",
-    "slug": "expo-template-bare",
-    "privacy": "unlisted",
-    "sdkVersion": "34.0.0",
+    "name": "react-native-zoomable-view-example",
+    "slug": "react-native-zoomable-view-example",
     "version": "1.0.0",
-    "entryPoint": "node_modules/expo/AppEntry.js",
-    "platforms": [
-      "ios",
-      "android",
-      "web"
+    "assetBundlePatterns": [
+      "**/*"
     ]
   }
 }
